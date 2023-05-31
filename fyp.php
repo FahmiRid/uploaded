@@ -145,6 +145,7 @@
 <body>
     <div class="dashboard">
         <div class="sidebar">
+            <h1>Hello World</h1>
             <h2>Teacher Dashboard</h2>
             <a class="menu-item" href="teacherdashboard.html">
                 <i class="fas fa-home"></i> Home
